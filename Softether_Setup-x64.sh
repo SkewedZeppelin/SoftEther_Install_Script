@@ -1,3 +1,7 @@
+#
+# Copyright (c) 2015. Spot Communications
+#
+
 #Update and Upgrade
 apt-get update -y
 apt-get upgrade -y
@@ -5,10 +9,10 @@ apt-get upgrade -y
 apt-get install curl -y
 apt-get install build-essential -y
 #Download SoftEther
-wget http://www.softether-download.com/files/softether/v4.15-9546-beta-2015.04.05-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.15-9546-beta-2015.04.05-linux-x64-64bit.tar.gz
+wget http://www.softether-download.com/files/softether/v4.17-9562-beta-2015.05.30-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.17-9562-beta-2015.05.30-linux-x64-64bit.tar.gz
 sleep 5
 #Extract SoftEther
-tar -xzvf softether-vpnserver-v4.15-9546-beta-2015.04.05-linux-x64-64bit.tar.gz
+tar -xzvf softether-vpnserver-v4.17-9562-beta-2015.05.30-linux-x64-64bit.tar.gz
 sleep 5
 #Compile SoftEther
 cd vpnserver
