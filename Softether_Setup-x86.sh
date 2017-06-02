@@ -1,6 +1,5 @@
-#
-# Copyright (c) 2015. Spot Communications
-#
+#/bin/bash
+#Copyright (c) 2015 Spot Communications, Inc.
 
 #Update and Upgrade
 apt-get update -y
