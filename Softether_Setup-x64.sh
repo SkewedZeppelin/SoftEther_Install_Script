@@ -1,5 +1,5 @@
 #/bin/bash
-#Copyright (c) 2014-2015 Divested Computing, Inc.
+#Copyright (c) 2014-2015 Divested Computing Group
 
 #Update and Upgrade
 apt-get update -y
