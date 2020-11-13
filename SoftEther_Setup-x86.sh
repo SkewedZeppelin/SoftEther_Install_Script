@@ -1,5 +1,6 @@
 #/bin/bash
 #Copyright (c) 2014-2015 Divested Computing Group
+#License: MIT
 
 #Update and Upgrade
 apt-get update -y

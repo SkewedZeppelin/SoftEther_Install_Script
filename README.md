@@ -5,13 +5,13 @@ Installation
 ------------
 1. Determine what architecture you are currently running
 2. Download the proper script using wget, curl or (s)FTP, eg, "wget URL"
-3. Run the script as root, eg "sudo sh SCRIPT.sh"
+3. Run the script as root: sudo sh SoftEther_Setup-*.sh
 4. When persistent iptables asks if you want to save any IPv4 rules, choose yes, and it doesn't matter what you answer for IPv6
 5. At this point, the VPN and DHCP server should be running
 6. Download the server manager from http://www.softether-download.com/en.aspx
 7. Connect to the VPN using the server manager, the default password is "password"
 8. Go to "Encryption and Network" and CHANGE THE PASSWORD
-9. While you're in that menu, generate a new key to your liking
+9. While you're in that menu, GENERATE A NEW KEY
 10. Save all that, navigate to "Manage Virtual Hub" and add users and groups as you like.
 11. Configure anything else you might want
 12. At this point you have a VPN server that supports L2TP, OpenVPN, SSTP, and SoftEther's own protocol
