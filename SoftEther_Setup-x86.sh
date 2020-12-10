@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 #Copyright (c) 2014-2015 Divested Computing Group
 #License: MIT
 
