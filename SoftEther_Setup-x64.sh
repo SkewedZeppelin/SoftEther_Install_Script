@@ -9,7 +9,7 @@ apt-get upgrade -y
 apt-get install curl -y
 apt-get install build-essential -y
 #Download SoftEther
-wget http://www.softether-download.com/files/softether/v4.18-9570-rtm-2015.07.26-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.18-9570-rtm-2015.07.26-linux-x64-64bit.tar.gz
+wget https://www.softether-download.com/files/softether/v4.18-9570-rtm-2015.07.26-tree/Linux/SoftEther_VPN_Server/64bit_-_Intel_x64_or_AMD64/softether-vpnserver-v4.18-9570-rtm-2015.07.26-linux-x64-64bit.tar.gz
 sleep 5
 #Extract SoftEther
 tar -xzvf softether-vpnserver-v4.18-9570-rtm-2015.07.26-linux-x64-64bit.tar.gz
