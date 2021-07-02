@@ -34,3 +34,7 @@ Credits
 - https://www.softether.org
 - https://www.digitalocean.com/community/tutorials/how-to-setup-a-multi-protocol-vpn-server-using-softether
 - https://blog.lincoln.hk/blog/2013/05/17/softether-on-vps-using-local-bridge
+
+Donate
+-------
+BTC: bc1qkjtp2k7cc4kuv8k9wjdlxkeuqczenrpv5mwasl
